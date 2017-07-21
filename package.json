@@ -1,37 +1,22 @@
 {
-  "name": "google_app_tracking",
-  "version": "0.0.2",
-  "description": "Cordova Plugin for Google App Install Conversion Tracking",
-  "cordova": {
-    "id": "com.test.google-app-conversion-tracker",
-    "platforms": [
-      "ios",
-      "android"
-    ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/VivreTech/google-app-conversion-tracker.git"
-  },
-  "keywords": [
-    "ecosystem:cordova",
-    "cordova-ios",
-    "cordova-android"
-  ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.5.0"
-    }
-  ],
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/VivreTech/google-app-conversion-tracker/issues"
-  },
-  "homepage": "https://github.com/VivreTech/google-app-conversion-tracker#readme",
+  "name": "cordova-plugin-google-app-conversion-tracker",
+  "version": "1.0.0",
+  "description": "Google App Install Conversion tracking plugin for iOS and Android. Phonegap integration for AdMob Conversion tracking.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexussmart/google-app-conversion-tracker.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Vo;py",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nexussmart/google-app-conversion-tracker/issues"
+  },
+  "homepage": "https://github.com/nexussmart/google-app-conversion-tracker#readme"
 }
